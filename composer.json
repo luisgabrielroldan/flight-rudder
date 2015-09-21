@@ -1,5 +1,5 @@
 {
-    "name": "th3darkzi0n/flight-rudder",
+    "name": "luisgabrielroldan/flight-rudder",
     "description": "Enables simple controllers support for Flight",
     "type": "library",
     "require": {
