@@ -3,7 +3,7 @@
     "description": "Enables simple controllers support for Flight",
     "type": "library",
     "require": {
-        "mikecao/flight": "^1.2"
+        "mikecao/flight": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.6"
