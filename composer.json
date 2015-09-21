@@ -1,0 +1,25 @@
+{
+    "name": "th3darkzi0n/flight-rudder",
+    "description": "Enables simple controllers support for Flight",
+    "type": "library",
+    "require": {
+        "mikecao/flight": "^1.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Roldan",
+            "email": "luisgabrielroldan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+
+    "autoload": {
+      "psr-4": {
+        "rudder\\": "rudder/"
+      }
+    }
+}
